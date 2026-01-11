@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-47,
+				189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-47,
+				189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-47,
+				189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-47,
+				188
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-47,
+				189
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hansukenew_Assets",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "hansuke",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		62,
+		131
+	],
+	"camera_position": [
+		20,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

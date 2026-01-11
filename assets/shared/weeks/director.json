@@ -1,0 +1,45 @@
+{
+	"storyName": "Ấn Enter để trải nghiệm",
+	"difficulties": "creator",
+	"hideFreeplay": true,
+	"weekBackground": "director",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Obsidian",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Donnie-soft-redux",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"fail",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

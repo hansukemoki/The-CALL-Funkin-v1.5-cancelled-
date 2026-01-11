@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"dream-disaturated",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "mania",
+	"weekCharacters": [
+		"bf",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"hideStoryMode": true,
+	"weekBefore": "landan",
+	"startUnlocked": false
+}

@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [-47, 190],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [-45, 187],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [-47, 187],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [-47, 188],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": true,
+			"offsets": [-47, 189],
+			"anim": "idle",
+			"fps": 24,
+			"name": "new idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-47, 189],
+			"anim": "glitch",
+			"fps": 38,
+			"name": "glitch",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "hansukeremake_Assets",
+	"position": [130, 340],
+	"healthicon": "hansuke",
+	"flip_x": false,
+	"healthbar_colors": [253, 62, 131],
+	"camera_position": [-230, -290],
+	"sing_duration": 4,
+	"scale": 1.6,
+	"_editor_isPlayer": false
+}

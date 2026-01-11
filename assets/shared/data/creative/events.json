@@ -1,0 +1,1292 @@
+{
+	"events": [
+		[
+			35200,
+			[
+				["Flash Camera", "1", ""],
+				["Change Character", "dad", "professor2"],
+				["Change Character", "gf", "tree"],
+				["badapplelol", "a", "0.1"]
+			]
+		],
+		[
+			48100,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			48200,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			48300,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			48400,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			48500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			48600,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			48700,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			48800,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			48900,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			49100,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			49300,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			49500,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			49800,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			49900,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			50000,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			50100,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			50200,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			50300,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			50400,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			50500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			50600,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			50800,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			51000,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			51300,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			51600,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			51700,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			51800,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			51900,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			52000,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			52100,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			52300,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			52500,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			52700,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			53000,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			53300,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			53400,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			53600,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			53800,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			54000,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			54100,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			54200,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			54300,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			54400,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			54500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			54600,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			54700,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			54800,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			54900,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			55000,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			55100,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			55200,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			55300,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			55400,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			55500,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			55600,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			55700,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			55800,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			61800,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			61900,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			62000,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			62100,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			62200,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			62300,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			62400,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			62500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			62600,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			62700,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			62800,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			62900,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			63000,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			63100,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			63200,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			63300,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			63400,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			63500,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			63600,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			63700,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			63800,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			63900,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			64000,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			64100,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			64200,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			64300,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			64400,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			64500,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			64600,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			64700,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			64800,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			64900,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			65000,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			65100,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			65200,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			65300,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			65400,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			65500,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			65600,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			65700,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			65800,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			66000,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			66100,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			66200,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			66300,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			66400,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			66500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			66600,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			66700,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			66800,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			66900,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			67000,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			67100,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			67200,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			67300,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			67400,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			67500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			67600,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			67700,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			67800,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			67900,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			68000,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			68100,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			68200,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			68300,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			68400,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			68500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			68600,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			68700,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			68800,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			68900,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			69000,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			69100,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			123500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			123600,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			123700,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			123800,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			123900,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			124000,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			124100,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			124200,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			124300,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			124800,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			124900,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			125000,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			125100,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			125200,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			125300,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			125400,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			125500,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			125600,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			125700,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			125800,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			125900,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			126000,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			126100,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			126200,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			126300,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			126400,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			126500,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			126600,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			126700,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			126800,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			126900,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			127000,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			127100,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			127200,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			127300,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			127400,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			127500,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			127600,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			127700,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			127800,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			128200,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			128300,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			128400,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			128500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			128600,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			128800,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			129000,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			129100,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			129200,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			129500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			129600,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			129700,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			129800,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			129900,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			130000,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			130400,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			130500,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			130600,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			130700,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			130800,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			130900,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			131000,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			131100,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			131200,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			135500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			135700,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			136000,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			136600,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			136700,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			136800,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			136900,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			137000,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			137100,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			137200,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			137300,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			137400,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			137500,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			137600,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			137700,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			137800,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			137900,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			138000,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			138100,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

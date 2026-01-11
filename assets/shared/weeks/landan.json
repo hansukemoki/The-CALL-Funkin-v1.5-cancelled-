@@ -1,0 +1,27 @@
+{
+	"storyName": "tới khi đã hoàn thành màn chơi từ phần giới thiệu voice actor",
+	"difficulties": "hard",
+	"hideFreeplay": true,
+	"weekBackground": "tree",
+	"weekBefore": "director",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"dream-desaturated",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "week",
+	"hiddenUntilUnlocked": false
+}

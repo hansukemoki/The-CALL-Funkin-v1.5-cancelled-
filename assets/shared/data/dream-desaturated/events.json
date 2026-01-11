@@ -1,0 +1,176 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cinematics_With_HUD",
+						"1",
+						"90"
+					]
+				]
+			],
+			[
+				2400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				2850,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				4800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				5250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				7200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				7650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				10050,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				10800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				11250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				11700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				21975,
+				[
+					[
+						"Change Character",
+						"dad",
+						"hsk"
+					],
+					[
+						"Change Character",
+						"BF",
+						"CG-Dream"
+					]
+				]
+			],
+			[
+				44175,
+				[
+					[
+						"Change Character",
+						"dad",
+						"hsk"
+					]
+				]
+			],
+			[
+				44250,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-tmk3"
+					]
+				]
+			],
+			[
+				82350,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CG-Dream"
+					],
+					[
+						"Change Character",
+						"dad",
+						"hsk"
+					]
+				]
+			]
+		]
+	}
+}

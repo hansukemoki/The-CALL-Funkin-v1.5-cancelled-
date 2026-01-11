@@ -1,0 +1,99 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"let",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"midi",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"broccoli",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"funny",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"creative",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bi",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"high",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Four-Way-Fracture",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"shu",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
