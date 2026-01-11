@@ -1,8 +1,8 @@
 # The CALL Funkin:
 A stupid indie mod made by a stupid student,you can meet my friend in here,rap battle with them and scary about the level of craziness of the mod.But i hope you guys like it,i took source to here,something i made by lua so it can't be right here,sorry. 
 ## Credits:
-Lân Hoàng - Main creator,main coder,make most of them.
-Hansuke Hitaroshi - help in coding and make something for it.
+*Lân Hoàng - Main creator,main coder,make most of them.
+*Hansuke Hitaroshi - help in coding and make something for it.
 ### Special Thanks
 * Shadow Mario - Head Developer, Programmer.
 * Riveren - Main Artist.
@@ -23,13 +23,13 @@ Hansuke Hitaroshi - help in coding and make something for it.
 * MaliciousBunny - Video for the Final Update.
 _____________________________________
 
-# Features
+#### Features
 
--New menu
--new Theme
--director's friend right here
--so very stupid
--a lot of cover song
--can make you scare and turn off the mod:)
+*New menu
+*new Theme
+*director's friend right here
+*so very stupid
+*a lot of cover song
+*can make you scare and turn off the mod:)
 
-Once again, thank you everyone for playing my stupid project ദ്ദിᗜ⩊ᗜ .
+*Once again, thank you everyone for playing my stupid project ദ്ദിᗜ⩊ᗜ .
