@@ -3,7 +3,7 @@ A stupid indie mod made by a stupid student,you can meet my friend in here,rap b
 ## Credits:
 Lân Hoàng - Main creator,main coder,make most of them.<br>
 Hansuke Hitaroshi - help in coding and make something for it.
-### Special Thanks
+### Special Thanks(Psych engine program)
 * Shadow Mario - Head Developer, Programmer.
 * Riveren - Main Artist.
 * bbpanzu - Ex-Team Member (Programmer).
